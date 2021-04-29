@@ -12,7 +12,7 @@
    
    __username and password are changable__**
  
-> 6. URL - http//:localhost:3000/ and vote.
+> 6. URL http//:localhost:3000/ and vote.
  
 ****
  
